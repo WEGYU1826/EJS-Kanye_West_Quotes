@@ -1,0 +1,29 @@
+
+body{
+    text-align: center;
+}
+
+h1{
+    font-family: 'Freehand', cursive; 
+    font-size: 5rem;
+}
+
+p{
+    font-family: 'DynaPuff', cursive;
+    font-size: 3rem;
+}
+
+input{
+    box-shadow: 10px;
+    background-color:white;
+    border:1px solid black; 
+    border-radius:10px; 
+    font-family: 'Freehand', cursive; 
+    font-size: 2rem;
+  
+}
+
+input:hover {
+    background-color:#c3c7d3;
+    transition: 0.7s;
+}
